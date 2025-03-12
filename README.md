@@ -26,17 +26,7 @@ For a detailed walkthrough, check out the [Demo Video](https://www.dropbox.com/s
    cd digiquad
    ```
 
-## Usage
-### Running the Application
-1. **Processing Excel/CSV Files**
-   - Run the script: `python process_csv.py`
-   - Upload an Excel/CSV file when prompted.
-   - Enter the row number from which to display data.
-   
-2. **Converting XML to JSON**
-   - Run the script: `python convert_xml.py`
-   - Upload an XML file when prompted.
-   - The output JSON file will be saved in the specified directory.
+
 
 
 
