@@ -19,7 +19,7 @@ const DisplayData = ({ data }) => {
         <TableHead>
           <TableRow>
             {headers.map((header, index) => (
-              <TableCell key={index} align="left">{header}</TableCell>
+              <TableCell key={index} align="left" className='font-bold bg-slate-200'>{header}</TableCell>
             ))}
           </TableRow>
         </TableHead>

@@ -129,7 +129,7 @@ const FileUploader = () => {
   }
 
   return (
-    <div className="space-y-4 p-6 bg-white rounded-lg shadow-lg max-w-full mx-auto flex justify-center">
+    <div className="space-y-4 p-6 bg-white rounded-lg shadow-lg max-w-full mx-auto flex flex-col items-center justify-center">
       <input
         type="file"
         onChange={handleFileChange}
