@@ -1,7 +1,7 @@
 # DigiQuad - File Processing and Conversion Assessment
 
 ## Overview
-This project is a part of the assessment task provided by [Company Name]. It includes functionalities for:
+This project is a part of the assessment task provided by digiquad. It includes functionalities for:
 1. **Excel/CSV File Processing** - Reading an Excel or CSV file and displaying the contents based on user-specified starting row.
 2. **XML to JSON Conversion** - Accepting an XML file, extracting its contents, and converting it into a JSON file.
 
@@ -13,6 +13,10 @@ This project is a part of the assessment task provided by [Company Name]. It inc
 
 ### 2. XML to JSON Conversion
 - Upload an XML file.
+
+https://github.com/user-attachments/assets/a3709cab-4f24-473b-8f0e-241e12730944
+
+
 - Read all values from the XML structure.
 - Convert and save the data as a JSON file at a specified location.
   
